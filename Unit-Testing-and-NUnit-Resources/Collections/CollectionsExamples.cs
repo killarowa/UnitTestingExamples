@@ -8,7 +8,7 @@ namespace Collections
         {
             Console.WriteLine();
             Console.WriteLine("Collection<T> Examples");
-            Console.WriteLine("Collection<T> Examples");
+            Console.WriteLine("Collection<T> Examples");Console.WriteLine("Collection<T> Examples");
             Console.WriteLine("======================");
             Console.WriteLine();
 
